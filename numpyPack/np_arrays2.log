@@ -1,0 +1,5 @@
+root - DEBUG - a: [8 4 7 3 9 1 2]
+root - DEBUG - aa: [1 2 3 4 7 8 9]
+root - DEBUG - nd.sort(a): [1 2 3 4 7 8 9]
+root - DEBUG - a: [4 3 2], b:[9 6 7], c:[0 1]
+root - DEBUG - np.concatenate((a, b, c)): [4 3 2 9 6 7 0 1]

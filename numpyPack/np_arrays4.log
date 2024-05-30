@@ -1,0 +1,8 @@
+root - DEBUG - a: [0 1 2 3 4 5]
+root - DEBUG - a.ndim = 1, a.size = 6, a.shape = (6,)
+root - DEBUG - b: [[0 1 2]
+ [3 4 5]]
+root - DEBUG - b.ndim = 2, b.size = 6, b.shape = (2, 3)
+root - DEBUG - c: [[0 1 2 3 4 5]]
+root - DEBUG - c.ndim = 2, c.size = 6, c.shape = (1, 6)
+root - DEBUG - a: [0 1 2 3 4 5]

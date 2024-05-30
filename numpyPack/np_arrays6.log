@@ -1,0 +1,8 @@
+root - DEBUG - data: [1 2 3]
+root - DEBUG - data[1:2]: [2]
+root - DEBUG - data[1:]: [2 3]
+root - DEBUG - data[-2:]: [2 3]
+root - DEBUG - data[5:10]: []
+root - DEBUG - data]: [0 1 2 3 4 5]
+root - DEBUG - data<= 4: [0 1 2 3 4]
+root - DEBUG - data % 2 == 0]: [0 2 4]

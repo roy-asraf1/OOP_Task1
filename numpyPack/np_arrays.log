@@ -1,0 +1,8 @@
+root - DEBUG - a: [1 2 3]
+root - DEBUG - a.zeros(5): [0. 0. 0. 0. 0.]
+root - DEBUG - a.ones(5): [1. 1. 1. 1. 1.]
+root - DEBUG - a.empty(3): [0. 0. 0.]
+root - DEBUG - a.arange(4): [0 1 2 3]
+root - DEBUG - a.arange(2, 9, 2): [2 4 6 8]
+root - DEBUG - a.linspace(0, 10, num=5): [ 0.   2.5  5.   7.5 10. ]
+root - DEBUG - a.ones(4, dtype=np.int64): [1 1 1 1]

@@ -1,0 +1,18 @@
+root - DEBUG - b: [[ 0  1  2]
+ [ 3  4  5]
+ [ 6  7  8]
+ [ 9 10 11]]
+root - DEBUG - b.ndim = 2, b.size = 12, b.shape = (4, 3)
+root - DEBUG - d: [[ 0  1  2  3  4  5  6  7  8  9 10 11]]
+root - DEBUG - d.ndim = 2, d.size = 12, d.shape = (1, 12)
+root - DEBUG - [[ 1  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]]
+root - DEBUG - a: [[99  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]]
+root - DEBUG - b: [ 1  2  3  4  5  6  7  8  9 10 11 12]
+root - DEBUG - c: [[99  2  3  4]
+ [ 5  6  7  8]
+ [ 9 10 11 12]]
+root - DEBUG - d: [99  2  3  4  5  6  7  8  9 10 11 12]

@@ -1,0 +1,2 @@
+root - DEBUG - a.ndim = 3, a.size = 24, a.shape = (3, 2, 4)
+root - DEBUG - a.ndim = 3, a.size = 16, a.shape = (2, 2, 4)
